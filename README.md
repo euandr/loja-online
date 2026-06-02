@@ -4,4 +4,6 @@ Projeto de estudo para aprender Git.
 
 parte 6: alteração nesta linha
 
-branch main: alteração apos a altecação de feature/documentacao.
+branch feature/documentacao: alteração aqui
+
+deixarei assim. tentarei agora resolver o conflito.
