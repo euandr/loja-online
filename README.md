@@ -1,2 +1,3 @@
-# loja-online
-tarefa da escola
+# Loja Online
+
+Projeto de estudo para aprender Git.
